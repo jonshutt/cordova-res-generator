@@ -4,6 +4,12 @@ module.exports = {
   path: "ios/splash/",
   definitions: [
     {
+      name: "Default@2x~universal~anyany.png",
+      width: 640,
+      height: 1136,
+      comment: ""
+    }, // any,
+    {
       name: "Default-568h@2x~iphone.png",
       width: 640,
       height: 1136,
